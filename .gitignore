@@ -1,0 +1,8 @@
+﻿__pycache__/
+*.pyc
+*.db
+*.db-shm
+*.db-wal
+dump.sql
+.streamlit/secrets.toml
+.env
